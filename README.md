@@ -3,8 +3,11 @@ Raspbeery Pi Python code for reading data from Benewake single point LiDAR TF03 
 This code has been tested on Rapsberry Pi Raspbian, Windows, Linux and supposed to work on other operating systems as long as Python2/3 and required libraries is installed.
 
 ######################
+
 Pyserial library can be installed using Pip:
+
 pip install pyserial
+
 ######################
 
 For more details about TF03-LiDAR visit Benewake website:
